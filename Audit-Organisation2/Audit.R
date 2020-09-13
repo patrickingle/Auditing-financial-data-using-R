@@ -18,7 +18,7 @@ library(pps)
 
 importAccounts = function() {
   library(readxl, readr)
-  path = "/Users/saai/Coding/RStudio/Audit" ## folder for files downloaded from UIC Blackboard
+  path = "Dataset" ## folder for files downloaded from UIC Blackboard
   files = c("arConfirmations.csv", "custCredit.csv", "empReimbursements.csv", "inventoryCounts.csv", "inventoryPerpetual.csv", "arCollections.csv", "purchases.csv", "sales.csv")
   dataFrameList = list()
   for(i in 1:length(files)){

@@ -1,9 +1,9 @@
 #Reading the datasets
-sales = read.csv("D:/UIC Spring/IDS 523 Audit and Control of Information Systems/Mid-Term exam/sales.csv")
-inventory = read.csv("D:/UIC Spring/IDS 523 Audit and Control of Information Systems/Mid-Term exam/inventory.csv")
-purchases = read.csv("D:/UIC Spring/IDS 523 Audit and Control of Information Systems/Mid-Term exam/purchases.csv")
-collections = read.csv("D:/UIC Spring/IDS 523 Audit and Control of Information Systems/Mid-Term exam/collections.csv")
-credit = read.csv("D:/UIC Spring/IDS 523 Audit and Control of Information Systems/Mid-Term exam/credit.csv")
+sales = read.csv("Dataset/sales.csv")
+inventory = read.csv("Dataset/inventory.csv")
+purchases = read.csv("Dataset/purchases.csv")
+collections = read.csv("Dataset/collections.csv")
+credit = read.csv("Dataset/credit.csv")
 
 #Filtering for the correct dates
 purchases$date = as.Date(purchases$date)
@@ -236,4 +236,4 @@ sum(Accounts_Receivable$qty)
 
 
 Accounts_Receivable = subset(Accounts_Receivable, qty == 0)
-write.csv(Accounts_Receivable, file =  "D:/ga/abc.csv")
+write.csv(Accounts_Receivable, file =  "Dataset/results.csv")
