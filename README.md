@@ -33,13 +33,17 @@ Illustrative Financial Statements - https://www.crowe.com/-/media/Crowe/LLP/foli
 
 Transparency of Firms that Audit Public Companies - https://www.iosco.org/library/pubdocs/pdf/IOSCOPD302.pdf 
 
+SEC Spotlight on Jumpstart Our Business Startups (JOBS) Act - https://www.sec.gov/spotlight/jobs-act.shtml 
+
+Jobs Act of 2012 - https://www.congress.gov/112/plaws/publ106/PLAW-112publ106.pdf 
+
 ## IRS Audit Techniques Guides (ATGs) 
 See https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs 
 
 ### Golden Parachute
 The Service has prepared a comprehensive audit techniques guide to assist examiners in evaluating parachute examinations. The parachute examination can occur during the examination of either the corporation's or the individual's return.
 
-    https://www.irs.gov/pub/irs-utl/goldenparachuteatg.pdf 
+https://www.irs.gov/pub/irs-utl/goldenparachuteatg.pdf 
 
 # News
 
